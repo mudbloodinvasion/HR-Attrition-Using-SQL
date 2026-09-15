@@ -1,21 +1,25 @@
-## HR Operations / Attrition Analytics
+## HR Attrition Analytics on IBM dataset
 
-This project analyzes employee attrition (turnover) for an HR/Operations team using:
+This project analyzes employee attrition (turnover) for an HR team using:
 
     - **Excel** for KPIs, pivot tables, and an interactive dashboard  
     - **MySQL** for SQL-based analysis  
     - **BA-style documentation** of findings and recommendations  
-The dataset is the well-known **IBM HR Analytics Employee Attrition** dataset (publicly available).
+The dataset is the well-known **IBM HR Analytics Employee Attrition** dataset available on Kaggle.
 
 ---
+The company is experiencing high employee attrition and wants to understand the major factors associated with employee turnover.
 
 ## 🎯 Business Question
 
 * The company is experiencing high employee attrition and wants to understand:
     - Which departments and roles are losing people the fastest?  
     - Which age and tenure segments are at the highest risk?  
+    - Does overtime significantly increase attrition?
+    - Does job satisfaction affect employee retention?
+    - Does distance from home affect attrition?
+    - Does work-life balance influence attrition?
     - What actions HR can take to reduce attrition?
-
 ---
 
 ## 📂 Project Structure
@@ -66,7 +70,6 @@ Steps in Excel:
       
 To view the dashboard, open "excel/hr_attrition_dashboard.xlsx" and go to the Dashboard sheet.
 
-![HR Attrition Dashboard](hr_attrition_dashboard.png)
 
 ---
 
