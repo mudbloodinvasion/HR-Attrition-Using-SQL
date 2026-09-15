@@ -179,9 +179,5 @@ The file "docs/ba_report.md" summarizes the project like a Business Analyst woul
 
 ---
 
-## ✍️ Author
-
-Sai Siddesh Reddy Bynigeri
-
 Business / Data Analyst – Python, SQL, Tableau, Excel
 
