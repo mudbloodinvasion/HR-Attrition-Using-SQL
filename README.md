@@ -170,8 +170,7 @@ The file "docs/ba_report.md" summarizes the project like a Business Analyst woul
 ---
 
 ## 🚀 How to Reproduce
-* Clone the repo:
-        git clone https://github.com/siddeshr007/hr-operations-analytics.git
+
 * Open "excel/hr_attrition_dashboard.xlsx" in Excel to explore the dashboard.
 * To run the SQL:
     - Import "data/hr_attrition_raw.csv" into a MySQL table called "employees" in a database called "hr_operations".
